@@ -1,3 +1,4 @@
+//This program uses basic concept of inheritance
 #include<iostream>
 using namespace std;
 class Cuboid{
