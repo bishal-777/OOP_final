@@ -1,4 +1,5 @@
 //This program changes the sign of input number from positive to negative and vice versa
+//Simple use of overloading unary operator
 #include<iostream>
 using namespace std;
 class Change{
